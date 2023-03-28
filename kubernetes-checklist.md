@@ -26,7 +26,7 @@ securityContext:
   capabilities:  # drop all extra capabilities
     drop:
       - all
-
+```
 
 ## Use Secrets for sensitive data
 
